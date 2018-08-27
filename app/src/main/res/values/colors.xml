@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="toolbar">#00b9a7</color>
+    <color name="colorDialogWindowBg">#00000000</color>
+    <color name="colorDialogViewBg">#dd000000</color>
+    <color name="colorDialogTextColor">#ffffff</color>
+    <color name="colorDialogTrans">#00000000</color>
+    <color name="colorDialogProgressBarColor">#ffffff</color>
+</resources>
